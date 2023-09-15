@@ -87,22 +87,27 @@ Antes de começar, você precisará das seguintes ferramentas:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests.
 
 ## Autores
-Seu Nome
+Daniel Cortez Borges Júnioe
 - GitHub: [Seu perfil no GitHub](https://github.com/Corttez)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-  
-- GitHub: [Seu perfil no GitHub](https://github.com/GQS-2023)
+
+Caio Santos
+- GitHub: [Seu perfil no GitHub](https://github.com/CaioSan7os)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
+João Victor Abreu dos Santos
 - GitHub: [Seu perfil no GitHub](https://github.com/jvictorabreu)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
+Danilo França
 - GitHub: [Seu perfil no GitHub](https://github.com/dsfdanilo)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
+Lucas Maciel
 - GitHub: [Seu perfil no GitHub](https://github.com/maciel-lucas)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
+Fernanda Ribeiro Borges 
 - GitHub: [Seu perfil no GitHub](https://github.com/BorgesFer)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
