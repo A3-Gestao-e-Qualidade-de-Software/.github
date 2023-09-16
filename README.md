@@ -5,7 +5,6 @@
 
 ## Badges
 [![Java Version](https://img.shields.io/badge/Java-11-blue)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-[![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-2.5-green)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ## Tabela de Conteúdos
@@ -80,7 +79,6 @@ Antes de começar, você precisará das seguintes ferramentas:
 
 ### Tecnologias Utilizadas
 - Java
-- Spring Boot
 - Banco de Dados (sua escolha)
 
 ## Contribuição
