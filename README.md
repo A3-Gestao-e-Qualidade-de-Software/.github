@@ -4,7 +4,7 @@
 <p align="center">Um sistema de reservas de quartos de hotel em Java que permite aos hóspedes consultar a disponibilidade de quartos, fazer reservas e gerenciar suas estadias.</p>
 
 ## Badges
-[![Java Version](https://img.shields.io/badge/Java-19-blue)](https://www.oracle.com/java/technologies/javase-jdk19-downloads.html)
+[![Java Version](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ## Tabela de Conteúdos
@@ -68,7 +68,7 @@ Em breve!
 ## Pré-requisitos e Como Rodar a Aplicação/Testes
 ### Pré-requisitos
 Antes de começar, você precisará das seguintes ferramentas:
-- [Java JDK 19](https://www.oracle.com/java/technologies/javase-jdk19-downloads.html)
+- [Java JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 
 
 ### Como rodar a aplicação
