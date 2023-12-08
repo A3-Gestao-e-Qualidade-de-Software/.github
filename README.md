@@ -87,28 +87,27 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 ## Autores
 Daniel Cortez Borges Júnior
 - GitHub: [Seu perfil no GitHub](https://github.com/Corttez)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- RA: 32228857
 
 Caio Santos
 - GitHub: [Seu perfil no GitHub](https://github.com/CaioSan7os)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- RA: 823223940
 
 João Victor Abreu dos Santos
 - GitHub: [Seu perfil no GitHub](https://github.com/jvictorabreu)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- RA: 12722216713
 
 Danilo França
 - GitHub: [Seu perfil no GitHub](https://github.com/dsfdanilo)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- RA: 1272328109
 
 Lucas Maciel
 - GitHub: [Seu perfil no GitHub](https://github.com/maciel-lucas)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- RA:
 
 Fernanda Ribeiro Borges 
 - GitHub: [Seu perfil no GitHub](https://github.com/BorgesFer)
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-
+- RA: 122320247
 
 
 ## Licença
