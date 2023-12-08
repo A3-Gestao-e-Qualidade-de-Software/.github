@@ -85,7 +85,7 @@ Antes de começar, você precisará das seguintes ferramentas:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests.
 
 ## Autores
-Daniel Cortez Borges Júnioe
+Daniel Cortez Borges Júnior
 - GitHub: [Seu perfil no GitHub](https://github.com/Corttez)
 - LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
 
