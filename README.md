@@ -61,6 +61,7 @@ Concluído!
 
 ## Demonstração da Aplicação
 
+- [Vídeo de apresentação](https://youtu.be/N-bxAC7eClA?si=V0tEZPX3y48zHHVd)
 - [Entrega Final](https://github.com/A3-Gestao-e-Qualidade-de-Software/Entrega4_Implementacao-do-Projeto/tree/main/src/main/java/br/com/a3/hotel/model)
 
 ## Pré-requisitos e Como Rodar a Aplicação/Testes
