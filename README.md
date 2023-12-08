@@ -50,20 +50,18 @@ Este projeto visa criar um sistema de reservas de quartos de hotel que permite a
 6. Política de Depósito
 
 ## Status do Projeto
-🚧 Em desenvolvimento...
+Concluído!
 
 ## Features
-- [ ] Cadastro de Quartos
-- [ ] Cadastro de Hóspedes
-- [ ] Consulta de Disponibilidade
-- [ ] Reserva de Quartos
-- [ ] Cancelamento de Reservas
-- [ ] Pagamento
-- [ ] Gestão de Estadia
-- [ ] Relatórios
+- [ OK ] Cadastro de Quartos
+- [ OK ] Cadastro de Hóspedes
+- [ OK ] Reserva de Quartos
+- [ OK ] Consulta de dados
+
 
 ## Demonstração da Aplicação
-Em breve!
+
+- [Entrega Final](https://github.com/A3-Gestao-e-Qualidade-de-Software/Entrega4_Implementacao-do-Projeto/tree/main/src/main/java/br/com/a3/hotel/model)
 
 ## Pré-requisitos e Como Rodar a Aplicação/Testes
 ### Pré-requisitos
@@ -79,7 +77,7 @@ Antes de começar, você precisará das seguintes ferramentas:
 
 ### Tecnologias Utilizadas
 - Java
-- Banco de Dados (sua escolha)
+- Banco de Dados (MySQL)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests.
